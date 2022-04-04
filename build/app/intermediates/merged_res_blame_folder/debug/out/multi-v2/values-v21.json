@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/iweb/Downloads/Stripe-Payment-flutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "outputFile": "/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
                     "source": "/Users/iweb/.gradle/caches/transforms-2/files-2.1/7b8a8a09dad60a5e89f33157a65dce0a/media-1.0.0/res/values-v21/values-v21.xml",

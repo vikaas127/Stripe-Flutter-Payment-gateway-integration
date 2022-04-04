@@ -12,8 +12,8 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->/Users/iweb/Downloads/Stripe-Payment-flutter/android/app/src/debug/AndroidManifest.xml:6:5-66
-14-->/Users/iweb/Downloads/Stripe-Payment-flutter/android/app/src/debug/AndroidManifest.xml:6:22-64
+14-->/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/android/app/src/debug/AndroidManifest.xml:6:5-66
+14-->/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/android/app/src/debug/AndroidManifest.xml:6:22-64
 15    <!-- See https://developer.android.com/training/package-visibility/declaring for more details. -->
 16    <queries>
 16-->[com.stripe:payments-core:17.1.0] /Users/iweb/.gradle/caches/transforms-2/files-2.1/92b3a71d249d13abe5a864146868e4a4/jetified-payments-core-17.1.0/AndroidManifest.xml:10:5-14:15
@@ -35,28 +35,28 @@
 25-->[com.google.android.gms:play-services-maps:17.0.0] /Users/iweb/.gradle/caches/transforms-2/files-2.1/1f21acb4b1033d29f62562e25aba9852/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
 26
 27    <application
-27-->/Users/iweb/Downloads/Stripe-Payment-flutter/android/app/src/main/AndroidManifest.xml:3:4-40:19
+27-->/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/android/app/src/main/AndroidManifest.xml:3:4-40:19
 28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 28-->[androidx.core:core:1.6.0] /Users/iweb/.gradle/caches/transforms-2/files-2.1/3db6d125c6afcb0a6fe221b28e1b5f57/core-1.6.0/AndroidManifest.xml:24:18-86
 29        android:debuggable="true"
 30        android:icon="@mipmap/ic_launcher"
-30-->/Users/iweb/Downloads/Stripe-Payment-flutter/android/app/src/main/AndroidManifest.xml:5:9-43
+30-->/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/android/app/src/main/AndroidManifest.xml:5:9-43
 31        android:label="stripe_payment" >
-31-->/Users/iweb/Downloads/Stripe-Payment-flutter/android/app/src/main/AndroidManifest.xml:4:9-39
+31-->/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/android/app/src/main/AndroidManifest.xml:4:9-39
 32        <activity
-32-->/Users/iweb/Downloads/Stripe-Payment-flutter/android/app/src/main/AndroidManifest.xml:6:9-34:20
+32-->/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/android/app/src/main/AndroidManifest.xml:6:9-34:20
 33            android:name="com.example.stripe_payment.MainActivity"
-33-->/Users/iweb/Downloads/Stripe-Payment-flutter/android/app/src/main/AndroidManifest.xml:7:13-41
+33-->/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/android/app/src/main/AndroidManifest.xml:7:13-41
 34            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-34-->/Users/iweb/Downloads/Stripe-Payment-flutter/android/app/src/main/AndroidManifest.xml:10:13-163
+34-->/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/android/app/src/main/AndroidManifest.xml:10:13-163
 35            android:hardwareAccelerated="true"
-35-->/Users/iweb/Downloads/Stripe-Payment-flutter/android/app/src/main/AndroidManifest.xml:11:13-47
+35-->/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/android/app/src/main/AndroidManifest.xml:11:13-47
 36            android:launchMode="singleTop"
-36-->/Users/iweb/Downloads/Stripe-Payment-flutter/android/app/src/main/AndroidManifest.xml:8:13-43
+36-->/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/android/app/src/main/AndroidManifest.xml:8:13-43
 37            android:theme="@style/LaunchTheme"
-37-->/Users/iweb/Downloads/Stripe-Payment-flutter/android/app/src/main/AndroidManifest.xml:9:13-47
+37-->/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/android/app/src/main/AndroidManifest.xml:9:13-47
 38            android:windowSoftInputMode="adjustResize" >
-38-->/Users/iweb/Downloads/Stripe-Payment-flutter/android/app/src/main/AndroidManifest.xml:12:13-55
+38-->/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/android/app/src/main/AndroidManifest.xml:12:13-55
 39
 40            <!--
 41                 Specifies an Android theme to apply to this Activity as soon as
@@ -65,11 +65,11 @@
 44                 to determine the Window background behind the Flutter UI.
 45            -->
 46            <meta-data
-46-->/Users/iweb/Downloads/Stripe-Payment-flutter/android/app/src/main/AndroidManifest.xml:17:13-20:17
+46-->/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/android/app/src/main/AndroidManifest.xml:17:13-20:17
 47                android:name="io.flutter.embedding.android.NormalTheme"
-47-->/Users/iweb/Downloads/Stripe-Payment-flutter/android/app/src/main/AndroidManifest.xml:18:15-70
+47-->/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/android/app/src/main/AndroidManifest.xml:18:15-70
 48                android:resource="@style/NormalTheme" />
-48-->/Users/iweb/Downloads/Stripe-Payment-flutter/android/app/src/main/AndroidManifest.xml:19:15-52
+48-->/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/android/app/src/main/AndroidManifest.xml:19:15-52
 49            <!--
 50                 Displays an Android View that continues showing the launch screen
 51                 Drawable until Flutter paints its first frame, then this splash
@@ -78,21 +78,21 @@
 54                 Flutter's first frame.
 55            -->
 56            <meta-data
-56-->/Users/iweb/Downloads/Stripe-Payment-flutter/android/app/src/main/AndroidManifest.xml:26:13-29:17
+56-->/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/android/app/src/main/AndroidManifest.xml:26:13-29:17
 57                android:name="io.flutter.embedding.android.SplashScreenDrawable"
-57-->/Users/iweb/Downloads/Stripe-Payment-flutter/android/app/src/main/AndroidManifest.xml:27:15-79
+57-->/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/android/app/src/main/AndroidManifest.xml:27:15-79
 58                android:resource="@drawable/launch_background" />
-58-->/Users/iweb/Downloads/Stripe-Payment-flutter/android/app/src/main/AndroidManifest.xml:28:15-61
+58-->/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/android/app/src/main/AndroidManifest.xml:28:15-61
 59
 60            <intent-filter>
-60-->/Users/iweb/Downloads/Stripe-Payment-flutter/android/app/src/main/AndroidManifest.xml:30:13-33:29
+60-->/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/android/app/src/main/AndroidManifest.xml:30:13-33:29
 61                <action android:name="android.intent.action.MAIN" />
-61-->/Users/iweb/Downloads/Stripe-Payment-flutter/android/app/src/main/AndroidManifest.xml:31:17-68
-61-->/Users/iweb/Downloads/Stripe-Payment-flutter/android/app/src/main/AndroidManifest.xml:31:25-66
+61-->/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/android/app/src/main/AndroidManifest.xml:31:17-68
+61-->/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/android/app/src/main/AndroidManifest.xml:31:25-66
 62
 63                <category android:name="android.intent.category.LAUNCHER" />
-63-->/Users/iweb/Downloads/Stripe-Payment-flutter/android/app/src/main/AndroidManifest.xml:32:17-76
-63-->/Users/iweb/Downloads/Stripe-Payment-flutter/android/app/src/main/AndroidManifest.xml:32:27-74
+63-->/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/android/app/src/main/AndroidManifest.xml:32:17-76
+63-->/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/android/app/src/main/AndroidManifest.xml:32:27-74
 64            </intent-filter>
 65        </activity>
 66        <!--
@@ -100,11 +100,11 @@
 68             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 69        -->
 70        <meta-data
-70-->/Users/iweb/Downloads/Stripe-Payment-flutter/android/app/src/main/AndroidManifest.xml:37:9-39:33
+70-->/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/android/app/src/main/AndroidManifest.xml:37:9-39:33
 71            android:name="flutterEmbedding"
-71-->/Users/iweb/Downloads/Stripe-Payment-flutter/android/app/src/main/AndroidManifest.xml:38:13-44
+71-->/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/android/app/src/main/AndroidManifest.xml:38:13-44
 72            android:value="2" />
-72-->/Users/iweb/Downloads/Stripe-Payment-flutter/android/app/src/main/AndroidManifest.xml:39:13-30
+72-->/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/android/app/src/main/AndroidManifest.xml:39:13-30
 73
 74        <activity
 74-->[com.stripe:payments-core:17.1.0] /Users/iweb/.gradle/caches/transforms-2/files-2.1/92b3a71d249d13abe5a864146868e4a4/jetified-payments-core-17.1.0/AndroidManifest.xml:17:9-20:57

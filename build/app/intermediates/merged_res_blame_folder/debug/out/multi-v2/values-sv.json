@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/iweb/Downloads/Stripe-Payment-flutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml",
+            "outputFile": "/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml",
             "map": [
                 {
                     "source": "/Users/iweb/.gradle/caches/transforms-2/files-2.1/92b3a71d249d13abe5a864146868e4a4/jetified-payments-core-17.1.0/res/values-sv/values-sv.xml",

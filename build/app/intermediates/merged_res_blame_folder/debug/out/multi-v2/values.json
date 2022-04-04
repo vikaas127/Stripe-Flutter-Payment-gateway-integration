@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/iweb/Downloads/Stripe-Payment-flutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/iweb/.gradle/caches/transforms-2/files-2.1/e1924d7e99e6158e819a9b04a730dc8c/cardview-1.0.0/res/values/values.xml",
@@ -80,25 +80,6 @@
                     }
                 },
                 {
-                    "source": "/Users/iweb/Downloads/Stripe-Payment-flutter/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,816",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "465,980"
-                    },
-                    "to": {
-                        "startLines": "3673,3726",
-                        "startColumns": "4,4",
-                        "startOffsets": "246405,250206",
-                        "endLines": "3677,3728",
-                        "endColumns": "12,12",
-                        "endOffsets": "246697,250370"
-                    }
-                },
-                {
                     "source": "/Users/iweb/.gradle/caches/transforms-2/files-2.1/961765c584050b1a80d1901ff5363e6a/jetified-startup-runtime-1.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "2",
@@ -113,23 +94,6 @@
                         "startOffsets": "85692",
                         "endColumns": "82",
                         "endOffsets": "85770"
-                    }
-                },
-                {
-                    "source": "/Users/iweb/Downloads/Stripe-Payment-flutter/build/stripe_android/intermediates/packaged_res/debug/values/values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,151,245,349,449,525,623,717,823",
-                        "endColumns": "95,93,103,99,75,97,93,105,91",
-                        "endOffsets": "146,240,344,444,520,618,712,818,910"
-                    },
-                    "to": {
-                        "startLines": "1410,1413,1419,1451,1465,1543,1549,1607,1615",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "87520,87985,88526,91831,92956,104069,104969,110452,111005",
-                        "endColumns": "95,93,103,99,75,97,93,105,91",
-                        "endOffsets": "87611,88074,88625,91926,93027,104162,105058,110553,111092"
                     }
                 },
                 {
@@ -458,6 +422,42 @@
                         "startOffsets": "81200,81473,81637,81744,81838,81924,82048,82106,82238,82334,82426,82513,82606,82701,82786,82874,82973,83062,83114,83214,83458,83555,83847,84173,84301,84389,84500,87413,91931,91971,93185,93223,93303,93377,93499,108090,108172,108230,108600,108685,108758,108833,108918,109081,109396",
                         "endColumns": "102,92,106,93,85,51,57,55,95,91,86,92,94,84,87,98,88,51,99,87,96,65,59,53,87,110,59,106,39,67,37,79,73,121,101,81,57,69,84,72,74,84,76,97,718",
                         "endOffsets": "81298,81561,81739,81833,81919,81971,82101,82157,82329,82421,82508,82601,82696,82781,82869,82968,83057,83109,83209,83297,83550,83616,83902,84222,84384,84495,84555,87515,91966,92034,93218,93298,93372,93494,93596,108167,108225,108295,108680,108753,108828,108913,108990,109174,110110"
+                    }
+                },
+                {
+                    "source": "/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/build/stripe_android/intermediates/packaged_res/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,151,245,349,449,525,623,717,823",
+                        "endColumns": "95,93,103,99,75,97,93,105,91",
+                        "endOffsets": "146,240,344,444,520,618,712,818,910"
+                    },
+                    "to": {
+                        "startLines": "1410,1413,1419,1451,1465,1543,1549,1607,1615",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "87520,87985,88526,91831,92956,104069,104969,110452,111005",
+                        "endColumns": "95,93,103,99,75,97,93,105,91",
+                        "endOffsets": "87611,88074,88625,91926,93027,104162,105058,110553,111092"
+                    }
+                },
+                {
+                    "source": "/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,816",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "465,980"
+                    },
+                    "to": {
+                        "startLines": "3673,3726",
+                        "startColumns": "4,4",
+                        "startOffsets": "246405,250206",
+                        "endLines": "3677,3728",
+                        "endColumns": "12,12",
+                        "endOffsets": "246697,250370"
                     }
                 },
                 {

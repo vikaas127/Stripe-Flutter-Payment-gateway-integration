@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/iweb/Downloads/Stripe-Payment-flutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-nn-rNO/values-nn-rNO.xml",
+            "outputFile": "/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-nn-rNO/values-nn-rNO.xml",
             "map": [
                 {
                     "source": "/Users/iweb/.gradle/caches/transforms-2/files-2.1/1fdd665184e4018e8cd22cb2ecbbcb55/jetified-paymentsheet-17.1.0/res/values-nn-rNO/values-nn-rNO.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/iweb/Downloads/Stripe-Payment-flutter/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ko-rKR/values-ko-rKR.xml",
+            "outputFile": "/Users/iweb/Documents/GitHub/Stripe-Flutter-Payment-gateway-integration/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ko-rKR/values-ko-rKR.xml",
             "map": [
                 {
                     "source": "/Users/iweb/.gradle/caches/transforms-2/files-2.1/50c276fee14a306ea7b72641f2093a54/jetified-stripe-3ds2-android-6.1.1/res/values-ko-rKR/values-ko-rKR.xml",
